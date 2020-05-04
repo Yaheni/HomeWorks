@@ -1,4 +1,4 @@
-package com.company.SecondHomeWorkThirdTask;
+package com.company.ThirdHomeWorkTaskThree;
 
 public class BuildLine {
 
