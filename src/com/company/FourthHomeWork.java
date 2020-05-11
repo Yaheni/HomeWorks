@@ -1,4 +1,7 @@
+package com.company;
+
 import java.util.*;
+
 public class FourthHomeWork {
     public static HashMap<String, String> getRussianLettersIntoEnglish () {
         HashMap<String, String> russianIntoEnglish = new HashMap<>();
