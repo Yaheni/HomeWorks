@@ -24,13 +24,16 @@ public class FourthHomeWork {
         russianIntoEnglish.put("р", "r");
         russianIntoEnglish.put("с", "s");
         russianIntoEnglish.put("т", "t");
-        russianIntoEnglish.put("у", "u");
+        russianIntoEnglish.put("у", "y");
         russianIntoEnglish.put("ф", "f");
         russianIntoEnglish.put("х", "h");
         russianIntoEnglish.put("ц", "c");
         russianIntoEnglish.put("ч", "ch");
         russianIntoEnglish.put("ш", "sh");
         russianIntoEnglish.put("щ", "sch");
+        russianIntoEnglish.put("ы", "u");
+        russianIntoEnglish.put("ь", "");
+        russianIntoEnglish.put("ъ", "");
         russianIntoEnglish.put("э", "e");
         russianIntoEnglish.put("ю", "yu");
         russianIntoEnglish.put("я", "ya");
